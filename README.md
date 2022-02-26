@@ -5,7 +5,7 @@
 
 </a>
 
-# Vueform Vue CLI 3 + TailwindCSS 3 Boilerplate
+# Vueform Vue CLI 3 + Tailwind CSS 3 Boilerplate
 
 *Last tested with Vue CLI 4.5.0*
 

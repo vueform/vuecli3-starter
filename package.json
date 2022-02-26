@@ -2,7 +2,7 @@
   "name": "@vueform/vuecli3-starter",
   "version": "1.0.0",
   "private": false,
-  "description": "Vueform Vue CLI 3 + TailwindCSS 3 Boilerplate",
+  "description": "Vueform Vue CLI 3 + Tailwind CSS 3 Boilerplate",
   "licence": "MIT",
   "author": "Adam Berecz <adam@vueform.com>",
   "repository": {
